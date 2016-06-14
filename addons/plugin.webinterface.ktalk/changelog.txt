@@ -1,0 +1,5 @@
+0.2.1
+- Keep message history between sessions.
+
+0.2.0
+- Links in messages implemented. Click on link adds the corresponding command to the message bar.
